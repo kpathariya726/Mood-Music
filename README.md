@@ -32,9 +32,3 @@ To run this project locally, you need to have the following installed:
 - [Google Cloud API key](https://cloud.google.com/docs/authentication/getting-started)
 - [Spotify Developer Account](https://developer.spotify.com/)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Faruk-Tutkus/Mood-Based-Music-Recommender.git
-   cd Mood-Based-Music-Recommender
