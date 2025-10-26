@@ -10,4 +10,9 @@
     "puppeteer": "^22.13.1",
     "querystring": "^0.2.1"
   }
+  {
+  "name": "mood-music",
+  "author": "Kunal Pathariya",
+  "description": "AI-powered mood-based music recommender built by Kunal Pathariya"
+}
 }
